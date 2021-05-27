@@ -23,8 +23,8 @@ Please find the dataset in the Dataset folder.
 $ python filename.py /dataset_path/electrodes.csv+stimuation file/
 ```
 Filename:
-MU_activation_model.py 
-RAW_IPT_MODEL
+* MU_activation_model.py 
+* RAW_IPT_MODEL
 
 ## Description
 
@@ -41,6 +41,7 @@ Clarke, Alexander & Atashzar, Seyed Farokh & Del Vecchio, Alessandro & Barsakcio
 ## Results
 
 Results are visualized in the Raster plot to compare the performance of different decomposition techniques and ground truth.
+![alt text](Results/2040_WW_raster.JPG)
 
 
 
